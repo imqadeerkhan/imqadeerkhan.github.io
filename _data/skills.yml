@@ -1,21 +1,27 @@
 languages:
+  - item: Go-lang
+  - item: Springboot
   - item: PHP
   - item: Laravel
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: HTML
-  - item: CSS/Sass
+  - item: CSS/SAAS
   - item: SQL
   
 frameworks:
+  - item: Springboot
+  - item: Microservices
   - item: Laravel
   - item: React
+  - item: Next.JS
   - item: Jekyll
   - item: Node
   - item: D3
   - item: Wordpress
 
 tools:
+  - item: Microservices
   - item: Agile Methodologies
   - item: Cloud Computing
   - item: Software Development
@@ -27,3 +33,4 @@ tools:
 design:
   - item: Agile 
   - item: User Testing
+  - item: Microservices
